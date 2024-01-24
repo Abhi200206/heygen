@@ -22,7 +22,7 @@ export default function Body()
             </div>
             <p className="text-[10px] text-slate-800 font-normal">No credit card needed</p>
             <div className="flex justify-center">
-            <Marquee loop={0} speed={10} className="w-[700px]">
+            <Marquee loop={0} speed={10} className="w-[710px]">
             <div className="flex gap-8">
             
             <img className="h-20 w-20" src="https://assets-global.website-files.com/63fdcbe48aa020c0a5493507/656788726e54fd474715a07e_logo01.webp"/>
