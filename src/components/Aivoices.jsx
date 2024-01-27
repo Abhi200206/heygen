@@ -5,7 +5,7 @@ export default function Aivoices()
         <div className="flex justify-between">
             <div>
                 <div className="pl-[50px]">
-                <p className="text-[20px] text-left text-[#0c062c] text-[100px]">AI voices</p>
+                <p className=" text-left text-[#0c062c] text-[100px]">AI voices</p>
                 <p className="text-[20px] text-left text-[#0c062c] ">Select a premium voice across any style or</p>
                 <p className="text-[20px] text-left text-[#0c062c] ">language. Benefit from our AI-Driven text</p>
                 <p className="text-[20px] text-left text-[#0c062c] ">reader, infusing human-like intonation and   </p>

@@ -154,7 +154,7 @@ const [data,setData]=useState(1);
                     </div>
                     </div>
                     <div className="absolute top-[300px] left-[0px] ">
-                        <img className="w-[600px]" src="./src/assets/bgline.png" alt="" />
+                        <img className="w-[600px]" src="/bgline.png" alt="" />
                     </div>
                     <div className="absolute top-[200px] left-[50px] ">
                         <div><p className="text-left text-[40px] text-white">Instant avatar</p>
@@ -172,7 +172,7 @@ const [data,setData]=useState(1);
                 </video>
                 </div>
                 <div className="absolute top-[730px] left-[0px]  ">
-                    <img className="w-[600px]" src="./src/assets/bgline.png" alt="" />
+                    <img className="w-[600px]" src="/bgline.png" alt="" />
                 </div>
                 <div className="z-[5]  absolute top-[570px] right-[630px] ">
                     <div className="w-12 h-12 rounded-xl cursor-pointer hover:bg-[#7559ff] bg-[#7559ff4d] flex justify-center pt-3 ml-1"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="white" class="pb-2 w-6 h-6">
@@ -202,7 +202,7 @@ const [data,setData]=useState(1);
                     </div>
                 </div>
                 <div className="absolute top-[1200px] left-[0px]  ">
-                    <img className="w-[600px]" src="./src/assets/bgline.png" alt="" />
+                    <img className="w-[600px]" src="/bgline.png" alt="" />
                 </div>
                 <div className="absolute top-[1100px] left-[50px] ">
                 <div><p className="text-left text-[40px] text-white">Studio avatar</p>
@@ -226,7 +226,7 @@ const [data,setData]=useState(1);
                 <div className="bg-[#BBAEFB] h-[550px]">
                     <div className="relative">
                         <div className="absolute top-[20pxpx] left-[480px]">
-                            <img className="w-[400px]" src="./src/assets/bgtri.png" alt="" />
+                            <img className="w-[400px]" src="/bgtri.png" alt="" />
                         </div>
                         <div className='z-[5] absolute left-[80px] top-[40px] bg-[#ffffff1a] rounded-2xl w-[400px] h-[300px] px-8 py-8  border-[1px]'>
                             <Scroolscript/>
@@ -359,7 +359,7 @@ const [data,setData]=useState(1);
             </div>
             <div className="bg-[#0C062C] h-[400px]"></div>
             <div className="bg-[#0C062C] relative">
-            <img src="./src/assets/bground.png" alt="" />
+            <img src="/bground.png" alt="" />
 
             <div className="absolute top-[0px] right-[50px] ">
             <img src="https://assets-global.website-files.com/63fdcbe48aa020c0a5493507/656784f4a1a5876ea1668c22_creator-2.webp" loading="lazy" sizes="(max-width: 767px) 177px, (max-width: 991px) 280px, 388px" srcset="https://assets-global.website-files.com/63fdcbe48aa020c0a5493507/656784f4a1a5876ea1668c22_creator-2-p-500.webp 500w, https://assets-global.website-files.com/63fdcbe48aa020c0a5493507/656784f4a1a5876ea1668c22_creator-2.webp 720w" alt=""/>
