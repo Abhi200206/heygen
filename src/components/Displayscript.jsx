@@ -4,19 +4,13 @@ export default function Display({id})
     let [val,setVal]=useState("");
     useEffect(()=>{
         let arr=[
-            'Hey',            ' there!',     ' Welcome',
-            ' to',             ' HeyGen',     ' -',
-            ' where',          ' you',        ' can',
-            ' easily',         ' create',     ' fun,',
-            ' high-quality',   ' videos',     ' using',
-            ' our',            ' AI',         ' avatars',
-            ' and',            ' voices.',    ' In',
-            ' just',           ' a',          ' few',
-            ' clicks,',        ' you',        ' can',
-            ' generate',       ' custom',     ' videos',
-            ' for',            ' social',     ' media,',
-            ' presentations,', ' education,', ' and',
-            ' more.'
+            ' Hey',     ' there!',
+            ' Welcome', ' to',
+            ' HeyGen!', ' This',
+            ' is',      ' what',
+            ' we',      ' sound',
+            ' like',    ' in',
+            ' another', ' language.'
           ];
         let i=0;
         setInterval(()=>{
@@ -45,7 +39,7 @@ export default function Display({id})
    
     return(
         <div className="flex justify-start">
-                <p className="text-left">{val}</p>
+                <p className="text-left text-[20px]">{val}</p>
         </div>
     )
 
