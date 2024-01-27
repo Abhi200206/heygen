@@ -387,30 +387,30 @@ const [data,setData]=useState(1);
             </div>
             <div className="b-[#e6e0f4] h-[300px]"></div>
             <div className="b-[#e6e0f4]">
-               <img src="./src/assets/beloved.png" alt="" />
+               <img src="/beloved.png" alt="" />
             </div>
             <div className="b-[#e6e0f4] pb-[90px]">
                 
                     <div className="flex ">
                     <Marquee speed={6} loop={0}>
-                        <img className="px-2 h-[290px] rounded-2xl" src="./src/assets/sc1.png" alt="" />
-                        <img className="px-2 h-[290px] rounded-2xl" src="./src/assets/sc2.png" alt="" />
-                        <img className="px-2 h-[290px] rounded-2xl" src="./src/assets/sc3.png" alt="" />
-                        <img className="px-2 h-[290px] rounded-2xl" src="./src/assets/sc4.png" alt="" />
+                        <img className="px-2 h-[290px] rounded-2xl" src="/sc1.png" alt="" />
+                        <img className="px-2 h-[290px] rounded-2xl" src="/sc2.png" alt="" />
+                        <img className="px-2 h-[290px] rounded-2xl" src="/sc3.png" alt="" />
+                        <img className="px-2 h-[290px] rounded-2xl" src="/sc4.png" alt="" />
                         </Marquee>
                     </div>
                     <div className="flex pt-8 ">
                     <Marquee speed={6} loop={0} direction="right">
-                        <img className="px-2 h-[290px] rounded-2xl" src="./src/assets/sc3.png" alt="" />
-                        <img className="px-2 h-[290px] rounded-2xl" src="./src/assets/sc2.png" alt="" />
-                        <img className="px-2 h-[290px] rounded-2xl" src="./src/assets/sc1.png" alt="" />
-                        <img className="px-2 h-[290px] rounded-2xl" src="./src/assets/sc4.png" alt="" />
+                        <img className="px-2 h-[290px] rounded-2xl" src="/sc3.png" alt="" />
+                        <img className="px-2 h-[290px] rounded-2xl" src="/sc2.png" alt="" />
+                        <img className="px-2 h-[290px] rounded-2xl" src="/sc1.png" alt="" />
+                        <img className="px-2 h-[290px] rounded-2xl" src="/sc4.png" alt="" />
                         </Marquee>
                     </div>
                 
             </div>
             <div className="b-[#e6e0f4] relative">
-                <img src="./src/assets/final.png" alt="" />
+                <img src="/final.png" alt="" />
                 <div className="absolute top-[40px] left-[500px] ">
                     <p className="text-white text-[80px] ">Start</p>
                     <p className="text-white text-[80px] ">creating</p>
@@ -442,7 +442,7 @@ const [data,setData]=useState(1);
                 </div>
             </div>
             <div className="bg-[#7559FF]">
-                <img className="pt-4" src="./src/assets/end.png" alt="" />
+                <img className="pt-4" src="/end.png" alt="" />
 
             </div>
 
