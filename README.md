@@ -1,5 +1,6 @@
 # React + Vite
-
+## heygen clone
+this is a clone of heygen made using React and tailwind css.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
